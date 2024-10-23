@@ -2,7 +2,7 @@
 {% assign email    = "jgledhill1@gmail.com" %}
 {% assign username = "jgled1" %}
 {% capture repository %}
-    https://{{ username }}.github.io/resume
+    https://jgled1.github.io/resume
 {% endcapture %}
 
 # {{ name }}
