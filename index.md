@@ -23,6 +23,8 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 ### Education
 * ZipCodeWilmington School of Coding - _March 2023 - May 2023_
+* University of Delaware, Bachelors Degree. Major: Information Systems. Completed May 2010
+* University of Delaware, Masters Degree. Major: Information Systems and Technology Managment. Completed May 2014
 * _[Certificate of Completion](./bachelors-degree.pdf)_
 
 
