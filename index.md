@@ -1,4 +1,4 @@
-{% assign linkedin = "https://www.linkedin.com/in/jgledhill" %}
+{% assign linkedin = "https://www.linkedin.com/in/jgledhill1" %}
 {% assign email    = "jgledhill1@gmail.com" %}
 {% assign username = "jgled1" %}
 {% capture repository %}
